@@ -1,0 +1,10 @@
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\bin\Debug\netcoreapp3.0\ReverseWordsInSpring.exe
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\bin\Debug\netcoreapp3.0\ReverseWordsInSpring.deps.json
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\bin\Debug\netcoreapp3.0\ReverseWordsInSpring.runtimeconfig.json
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\bin\Debug\netcoreapp3.0\ReverseWordsInSpring.runtimeconfig.dev.json
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\bin\Debug\netcoreapp3.0\ReverseWordsInSpring.dll
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\bin\Debug\netcoreapp3.0\ReverseWordsInSpring.pdb
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\obj\Debug\netcoreapp3.0\ReverseWordsInSpring.AssemblyInfoInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\obj\Debug\netcoreapp3.0\ReverseWordsInSpring.AssemblyInfo.cs
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\obj\Debug\netcoreapp3.0\ReverseWordsInSpring.dll
+C:\Users\16313\Desktop\C#\Exercises\ReverseWordsInSpring\ReverseWordsInSpring\obj\Debug\netcoreapp3.0\ReverseWordsInSpring.pdb

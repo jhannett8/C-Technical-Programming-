@@ -1,0 +1,11 @@
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\bin\Debug\netcoreapp3.0\SumOddElementsInArray.exe
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\bin\Debug\netcoreapp3.0\SumOddElementsInArray.deps.json
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\bin\Debug\netcoreapp3.0\SumOddElementsInArray.runtimeconfig.json
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\bin\Debug\netcoreapp3.0\SumOddElementsInArray.runtimeconfig.dev.json
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\bin\Debug\netcoreapp3.0\SumOddElementsInArray.dll
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\bin\Debug\netcoreapp3.0\SumOddElementsInArray.pdb
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\obj\Debug\netcoreapp3.0\SumOddElementsInArray.csprojAssemblyReference.cache
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\obj\Debug\netcoreapp3.0\SumOddElementsInArray.AssemblyInfoInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\obj\Debug\netcoreapp3.0\SumOddElementsInArray.AssemblyInfo.cs
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\obj\Debug\netcoreapp3.0\SumOddElementsInArray.dll
+C:\Users\16313\Desktop\C#\Exercises\SumOddElementsInArray\SumOddElementsInArray\obj\Debug\netcoreapp3.0\SumOddElementsInArray.pdb

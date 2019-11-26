@@ -1,0 +1,10 @@
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\bin\Debug\netcoreapp3.0\SumOfOddIndexes.exe
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\bin\Debug\netcoreapp3.0\SumOfOddIndexes.deps.json
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\bin\Debug\netcoreapp3.0\SumOfOddIndexes.runtimeconfig.json
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\bin\Debug\netcoreapp3.0\SumOfOddIndexes.runtimeconfig.dev.json
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\bin\Debug\netcoreapp3.0\SumOfOddIndexes.dll
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\bin\Debug\netcoreapp3.0\SumOfOddIndexes.pdb
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\obj\Debug\netcoreapp3.0\SumOfOddIndexes.AssemblyInfoInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\obj\Debug\netcoreapp3.0\SumOfOddIndexes.AssemblyInfo.cs
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\obj\Debug\netcoreapp3.0\SumOfOddIndexes.dll
+C:\Users\16313\Desktop\C#\Exercises\SumOfOddIndexes\SumOfOddIndexes\obj\Debug\netcoreapp3.0\SumOfOddIndexes.pdb
